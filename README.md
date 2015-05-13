@@ -1,6 +1,7 @@
 # docker-sinatra
-Dockerfile for sinatra
+Base image for sinatra.
 
+**Usage**
 ```
 FROM llamashoes/docker-sinatra
 ADD <app> /<app>
